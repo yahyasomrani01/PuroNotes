@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/yahyasomrani01/puronotes/static/js/main.9729926a.js",
-    "static/js/218.b03477cc.js": "/yahyasomrani01/puronotes/static/js/218.b03477cc.js",
-    "static/media/Ionicons.ttf": "/yahyasomrani01/puronotes/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "favicon.ico": "/yahyasomrani01/puronotes/favicon.ico",
-    "index.html": "/yahyasomrani01/puronotes/index.html",
-    "favicon-32.png": "/yahyasomrani01/puronotes/favicon-32.png",
-    "favicon-16.png": "/yahyasomrani01/puronotes/favicon-16.png",
-    "manifest.json": "/yahyasomrani01/puronotes/manifest.json",
-    "serve.json": "/yahyasomrani01/puronotes/serve.json",
-    "main.9729926a.js.map": "/yahyasomrani01/puronotes/static/js/main.9729926a.js.map",
-    "218.b03477cc.js.map": "/yahyasomrani01/puronotes/static/js/218.b03477cc.js.map"
+    "main.js": "/PuroNotes/static/js/main.a2ea64a0.js",
+    "static/js/218.b03477cc.js": "/PuroNotes/static/js/218.b03477cc.js",
+    "static/media/Ionicons.ttf": "/PuroNotes/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "favicon.ico": "/PuroNotes/favicon.ico",
+    "index.html": "/PuroNotes/index.html",
+    "favicon-32.png": "/PuroNotes/favicon-32.png",
+    "favicon-16.png": "/PuroNotes/favicon-16.png",
+    "manifest.json": "/PuroNotes/manifest.json",
+    "serve.json": "/PuroNotes/serve.json",
+    "main.a2ea64a0.js.map": "/PuroNotes/static/js/main.a2ea64a0.js.map",
+    "218.b03477cc.js.map": "/PuroNotes/static/js/218.b03477cc.js.map"
   },
   "entrypoints": [
     "static/js/218.b03477cc.js",
-    "static/js/main.9729926a.js"
+    "static/js/main.a2ea64a0.js"
   ]
 }
