@@ -4,6 +4,33 @@ A beautiful, cross-platform notes application built with React Native and Expo t
 
 ![PuroNotes Badge](https://img.shields.io/badge/PuroNotes-1.0.0-green) ![React Native Badge](https://img.shields.io/badge/React%2520Native-0.72-blue) ![Expo Badge](https://img.shields.io/badge/Expo-49.0-lightgrey) ![Platform Badge](https://img.shields.io/badge/platform-iOS%2520%257C%2520Android%2520%257C%2520Web-orange)
 
+## 🌐 Live Demo
+
+**[View Live Demo](https://yahyasomrani01.github.io/PuroNotes/)** - Try the web version deployed on GitHub Pages!
+
+## 📦 Deployment
+
+This project is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+
+### Automatic Deployment (GitHub Actions)
+
+The project uses GitHub Actions to automatically build and deploy the web version to GitHub Pages. The workflow is triggered on every push to the `main` branch.
+
+### Manual Deployment
+
+To manually deploy the web version:
+
+```bash
+# Build and deploy to GitHub Pages
+npm run predeploy  # Builds the web version
+npm run deploy     # Deploys to GitHub Pages
+```
+
+### Repository
+
+- **GitHub**: [https://github.com/yahyasomrani01/PuroNotes](https://github.com/yahyasomrani01/PuroNotes)
+- **Live Demo**: [https://yahyasomrani01.github.io/PuroNotes/](https://yahyasomrani01.github.io/PuroNotes/)
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
